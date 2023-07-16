@@ -26,7 +26,7 @@ Actualmente soy estudiante en ingeniería de sistemas. Me encanta todo lo que te
 --- 
 &nbsp;
 # Hello world 👋🏻🌎
-My name is William Ardila an I'm from Colombia 🇨🇴
+My name is William Ardila and I'm from Colombia 🇨🇴
 
 I am currently a student in systems engineering. I love everything that has to do with Frontend and web pages. However, I also have knowledge in Backend tools and areas such as databases
 
