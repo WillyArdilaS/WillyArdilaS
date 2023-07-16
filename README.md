@@ -1,18 +1,3 @@
-- [Español](#español)
-  - [Hola mundo 👋🏻🌎](#hola-mundo-)
-  - [🎓 Estudios](#-estudios)
-  - [🛠 Habilidades](#-habilidades)
-  - [🪁 Pasatiempos](#-pasatiempos)
-  - [Contáctame](#contáctame)
-- [English](#english)
-  - [Hello world 👋🏻🌎](#hello-world-)
-  - [🎓 Studies](#-studies)
-  - [🛠 Skills](#-skills)
-  - [🪁 Hobbies](#-hobbies)
-  - [Contact me](#contact-me)
-
-
-&nbsp;
 # Español
 ## Hola mundo 👋🏻🌎
 Mi nombre es William Ardila y soy de Colombia 🇨🇴
