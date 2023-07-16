@@ -1,10 +1,19 @@
-# Elige el lenguaje / Choose the language:
-- [Español](#español-🇨🇴)
-- [English](#english-🇺🇸)
+- [Español](#español)
+  - [Hola mundo 👋🏻🌎](#hola-mundo-)
+  - [🎓 Estudios](#-estudios)
+  - [🛠 Habilidades](#-habilidades)
+  - [🪁 Pasatiempos](#-pasatiempos)
+  - [Contáctame](#contáctame)
+- [English](#english)
+  - [Hello world 👋🏻🌎](#hello-world-)
+  - [🎓 Studies](#-studies)
+  - [🛠 Skills](#-skills)
+  - [🪁 Hobbies](#-hobbies)
+  - [Contact me](#contact-me)
 
 
 &nbsp;
-# Español 🇨🇴
+# Español
 ## Hola mundo 👋🏻🌎
 Mi nombre es William Ardila y soy de Colombia 🇨🇴
 
@@ -32,7 +41,7 @@ Actualmente soy estudiante en ingeniería de sistemas. Me encanta todo lo que te
 
 --- 
 &nbsp;
-# English 🇺🇸
+# English
 ## Hello world 👋🏻🌎
 My name is William Ardila an I'm from Colombia 🇨🇴
 
