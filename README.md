@@ -11,7 +11,7 @@ Actualmente soy estudiante en ingeniería de sistemas. Me encanta todo lo que te
 
 ## 🛠 Habilidades
   - Lenguajes: Java, C++, PL/SQL
-  - Desarrollo web: HTML, CSS, JavaScript, ReactJS
+  - Desarrollo web: HTML, CSS, JavaScript, ReactJS, TalwindCSS
   - Bases de datos: OracleDB, MongoDB, PostgreSQL
 
 ## 🪁 Pasatiempos
@@ -38,7 +38,7 @@ I am currently a student in systems engineering. I love everything that has to d
 
 ## 🛠 Skills
   - Languages: Java, C++, PL/SQL
-  - Web development: HTML, CSS, JavaScript, ReactJS
+  - Web development: HTML, CSS, JavaScript, ReactJS, TailwindCSS
   - Databases: OracleDB, MongoDB, PostgreSQL
 
 ## 🪁 Hobbies
