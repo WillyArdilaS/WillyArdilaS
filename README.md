@@ -19,7 +19,7 @@ Actualmente soy estudiante en ingeniería de sistemas. Me encanta todo lo que te
   🎶 Música \
   🖌 Ilustración
 
-## Contáctame
+## 📩 Contáctame
   - Twitter: [WillyAS_](https://twitter.com/WillyAS_)
   - Correo electrónico: williamardilasanchez@gmail.com
 
@@ -46,6 +46,6 @@ I am currently a student in systems engineering. I love everything that has to d
   🎶 Music \
   🖌 Illustration
 
-## Contact me
+## 📩 Contact me
   - Twitter: [WillyAS_](https://twitter.com/WillyAS_)
   - Email: williamardilasanchez@gmail.com
