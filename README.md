@@ -1,7 +1,7 @@
 # Hola mundo 👋🏻🌎
 Mi nombre es William Ardila y soy de Colombia 🇨🇴
 
-Actualmente soy estudiante en ingeniería de sistemas. Me encanta todo lo que tenga que ver con Frontend y páginas web. Sin embargo, también tengo conocimiento en herramientas y áreas del Backend
+Actualmente soy ingeniero de sistemas en formación con enfoque en el desarrollo web y frontend, aunque también cuento con sólidos conocimientos en backend y bases de datos
 
 
 ## 🎓 Estudios
@@ -10,9 +10,9 @@ Actualmente soy estudiante en ingeniería de sistemas. Me encanta todo lo que te
   - Diplomado de desarrollo Front-end con ReactJS (140hs) - Tecnológico de Antioquia Institución Universitaria | FIMLM (2022)
 
 ## 🛠 Habilidades
-  - Lenguajes: Java, C++, PL/SQL
+  - Lenguajes: Java, C++
   - Desarrollo web: HTML, CSS, JavaScript, ReactJS, TalwindCSS
-  - Bases de datos: OracleDB, MongoDB, PostgreSQL
+  - Bases de datos: OracleDB, PostgreSQL
 
 ## 🪁 Pasatiempos
   > 👾 Videojuegos \
@@ -28,7 +28,7 @@ Actualmente soy estudiante en ingeniería de sistemas. Me encanta todo lo que te
 # Hello world 👋🏻🌎
 My name is William Ardila and I'm from Colombia 🇨🇴
 
-I am currently a student in systems engineering. I love everything that has to do with Frontend and web pages. However, I also have knowledge in Backend tools and areas
+I am currently a systems engineer in training with a focus on web and frontend development, although I also have solid knowledge in backend and databases
 
 
 ## 🎓 Studies
@@ -37,9 +37,9 @@ I am currently a student in systems engineering. I love everything that has to d
   - Front-end development with ReactJS certification course (140hs) - Tecnológico de Antioquia Institución Universitaria | FIMLM (2022)
 
 ## 🛠 Skills
-  - Languages: Java, C++, PL/SQL
+  - Languages: Java, C++
   - Web development: HTML, CSS, JavaScript, ReactJS, TailwindCSS
-  - Databases: OracleDB, MongoDB, PostgreSQL
+  - Databases: OracleDB, PostgreSQL
 
 ## 🪁 Hobbies
   > 👾 Videogames \
